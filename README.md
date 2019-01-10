@@ -1,1 +1,1 @@
-# oo-long.github.io
+# blog.oicoc.com
